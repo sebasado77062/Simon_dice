@@ -1,5 +1,5 @@
 # Simón dice
-
+Este es nuestro proyecto.
 # Integrantes del proyecto
 
 * Diego Recalde.
