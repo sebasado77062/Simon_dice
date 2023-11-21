@@ -1,4 +1,4 @@
-# Simon_dice
+# Simón dice
 
 # Integrantes del proyecto
 
