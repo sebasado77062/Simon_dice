@@ -1,5 +1,7 @@
 # Simón dice
 Este es nuestro proyecto.
+*Insertar imagen*
+
 # Integrantes del proyecto
 
 * Diego Recalde.
@@ -16,7 +18,7 @@ Para este Simón dice requeriremos de:
 + 4 leds (1 led rojo, 1 led verde, 1 led azul y 1 led amarillo), 
 + 4 botones, 
 + 1 buzzer,
-+ 5 resistencias 1 kΩ,
++ 4 resistencias 1 kΩ,
 + 4 resistencias 220 Ω.
 
 # Explicación del juego
@@ -32,7 +34,7 @@ A medida que se avanza en el juego este se va complicando, puesto que el delay e
 …
 <br>
 <br>
-El simón dice cuenta de una secuencia de leds para indicar que comienza el juego<br>
-*Insertar gif de esa secuencia*"<br>
-	Y otra secuencia para indicar que hubo un error<br>
-*Insertar gif de esa secuencia*"<br>
+El simón dice cuenta de una secuencia de leds para indicar que comienza el juego:<br>
+*Insertar gif de esa secuencia*<br>
+	Y otra secuencia para indicar que hubo un error:<br>
+*Insertar gif de esa secuencia*<br>
