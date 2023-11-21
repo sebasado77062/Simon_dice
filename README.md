@@ -1,6 +1,6 @@
 # Simón dice
 Este es nuestro proyecto.
-*Insertar imagen*
+![Alt text](conexiones.png)
 
 # Integrantes del proyecto
 
