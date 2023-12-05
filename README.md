@@ -38,3 +38,6 @@ El simón dice cuenta de una secuencia de leds para indicar que comienza el jueg
 *Insertar gif de esa secuencia*<br>
 	Y otra secuencia para indicar que hubo un error:<br>
 *Insertar gif de esa secuencia*<br>
+<br>
+Enlace al Tinkercad del Simón dice: <br>
+https://www.tinkercad.com/things/buHneHawz30-simon-dice-rgbnt-ha-alcanzado-el-exito?sharecode=dnAUQGBAmJt7_YBo_vY6NIXSeEEQGghtf1BbFjJFHhs
